@@ -1,0 +1,10 @@
+D:\GitHub\unity-lib\obj\Debug\UnityVS.unity-lib.CSharp.csprojResolveAssemblyReference.cache
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\GitHub\unity-lib\obj\Debug\Assembly-CSharp.dll
+D:\GitHub\unity-lib\obj\Debug\Assembly-CSharp.pdb

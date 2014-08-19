@@ -1,0 +1,11 @@
+# Unity Project dir
+/Library
+/Temp
+
+# Unity VS Plugin
+/Assets/UnityVS
+
+# vs project
+/UnityVS*.csproj
+/UnityVS*.sln
+/UnityVS*.DotSettings

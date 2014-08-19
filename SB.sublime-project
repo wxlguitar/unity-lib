@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "Assets",
+			"file_exclude_patterns":["*.meta"]
+		}
+	],
+	"settings":
+	{
+		"completesharp_assemblies":
+		[
+			"D:/Program Files (x86)/Unity4.5/Editor/Data/Managed/UnityEngine.dll",
+			"D:/Program Files (x86)/Unity4.5/Editor/Data/Managed/UnityEditor.dll",
+			"D:/Program Files (x86)/Unity4.5/Editor/Data/Managed/nunit.framework.dll",
+			"D:/Program Files (x86)/Unity4.5/Editor/Data/Mono/lib/mono/unity/UnityScript.dll",
+			"D:/Program Files (x86)/Unity4.5/Editor/Data/Mono/lib/mono/unity/System.Core.dll",
+			"D:/Program Files (x86)/Unity4.5/Editor/Data/Mono/lib/mono/unity/System.dll"
+		]
+	}
+}

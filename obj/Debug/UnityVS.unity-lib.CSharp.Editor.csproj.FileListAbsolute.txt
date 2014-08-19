@@ -1,0 +1,16 @@
+D:\GitHub\unity-lib\obj\Debug\UnityVS.unity-lib.CSharp.Editor.csprojResolveAssemblyReference.cache
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.dll
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\UnityVS.VersionSpecific.dll
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\GitHub\unity-lib\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.xml
+D:\GitHub\unity-lib\obj\Debug\Assembly-CSharp-Editor.dll
+D:\GitHub\unity-lib\obj\Debug\Assembly-CSharp-Editor.pdb

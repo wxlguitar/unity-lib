@@ -1,0 +1,527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"GetKey",
+				"GetKeyDown(String)	Boolean"
+			],
+			[
+				"pla",
+				"Play(String)	Boolean"
+			],
+			[
+				"Cro",
+				"CrossFade(String)	Void"
+			],
+			[
+				"GetCom",
+				"GetComponent	type"
+			],
+			[
+				"GetA",
+				"GetAxis(String)	Single"
+			],
+			[
+				"GetMouse",
+				"GetMouseButton(Int32)	Boolean"
+			],
+			[
+				"GetKy",
+				"GetKey(KeyCode)	Boolean"
+			],
+			[
+				"GetKeyDo",
+				"GetKeyDown(KeyCode)	Boolean"
+			],
+			[
+				"GetMouseB",
+				"GetMouseButton(Int32)	Boolean"
+			],
+			[
+				"mouseButton",
+				"GetMouseButtonDown(Int32)	Boolean"
+			],
+			[
+				"getKey",
+				"GetKeyDown(String)	Boolean"
+			],
+			[
+				"getkey",
+				"GetKey(KeyCode)	Boolean"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "deb http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ wheezy main contrib non-free rpi \ndeb-src http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ wheezy main contrib non-free rpi\n\ndeb http://mirrors.neusoft.edu.cn/raspbian/raspbian/ wheezy main contrib non-free rpi\ndeb-src http://mirrors.neusoft.edu.cn/raspbian/raspbian/ wheezy main contrib non-free rpi\n\ndeb http://mirrors.ustc.edu.cn/raspbian/raspbian/ wheezy main contrib non-free rpi\ndeb-src http://mirrors.ustc.edu.cn/raspbian/raspbian/ wheezy main contrib non-free rpi",
+			"file": "/C/Users/Administrator/Desktop/新建文本文档.txt",
+			"file_size": 0,
+			"file_write_time": 130515451707034808,
+			"settings":
+			{
+				"buffer_size": 536,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Windows/System32/drivers/etc/hosts",
+			"settings":
+			{
+				"buffer_size": 1329,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/AppData/Local/Unity/Editor/Editor.log",
+			"settings":
+			{
+				"buffer_size": 441698,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/AppData/Local/Unity/Editor/Editor-prev.log",
+			"settings":
+			{
+				"buffer_size": 136533,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Program Files (x86)/Unity4.5/Editor/Temp/infile",
+			"settings":
+			{
+				"buffer_size": 3,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/AppData/Local/Temp/HZ$D.509.2920/HZ$D.509.2921/Assets/Scripts/com/engine/buff/BuffManager.cs",
+			"settings":
+			{
+				"buffer_size": 6306,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Cont:in",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pac con en",
+				"Package Control: Enable Package"
+			],
+			[
+				"PackageCon",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package c",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 600.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/GitHub/unity-lib/Assets/TestAniController/New Animator Controller.controller.meta",
+		"/D/GitHub/unity-lib/Assets/TestAniController/New Animator Controller.controller",
+		"/D/Workplace/homework/7_27/2/rlq_140727/raoliqiang_20140727_tuchuchongwei/CodeList_10_07(rlq)/CodeList_10_07/Assets/Script/Script_Enemy.cs",
+		"/D/Workplace/homework/7_27/2/rlq_140727/raoliqiang_20140727_tuchuchongwei/CodeList_10_07(rlq)/CodeList_10_07/Assets/Script/Tools.cs",
+		"/D/Workplace/homework/7_27/2/rlq_140727/raoliqiang_20140727_tuchuchongwei/CodeList_10_07(rlq)/CodeList_10_07/Assets/Script/Script_Game.cs",
+		"/D/Workplace/homework/7_27/2/rlq_140727/raoliqiang_20140727_tuchuchongwei/CodeList_10_07(rlq)/CodeList_10_07/Assets/Script/Script_Menu.cs",
+		"/D/Workplace/homework/7_27/2/lzw_140728/lzw_run_20140728/Run/Assets/scripts/run.cs",
+		"/D/Workplace/homework/7_27/2/lzw_140728/lzw_run_20140728/Run/Assets/scripts/ShpereMain.cs",
+		"/D/Workplace/homework/7_27/1/xyq_140727/HomeWork/Assets/Script/Player/PlayerState.cs",
+		"/D/Workplace/homework/7_27/1/xyq_140727/HomeWork/Assets/Script/Camera/MouseOrbit.cs",
+		"/D/Workplace/homework/7_27/1/xyq_140727/HomeWork/Assets/Script/Player/PlayerControl.cs",
+		"/D/Workplace/homework/7_27/1/xyq_140727/HomeWork/Assets/Script/Camera/MinimapCamera.cs",
+		"/D/Workplace/homework/7_27/1/lxy_140727/work4/Assets/Resources/Keyboard.cs",
+		"/D/Workplace/homework/7_27/1/lxy_140727/work4/Assets/Resources/Cubes.cs",
+		"/D/Workplace/homework/7_27/1/lxy_140727/work4/Assets/Resources/CreateMaster.cs",
+		"/D/Workplace/homework/7_27/1/lxy_140727/work4/Assets/Resources/CollisionTest.cs",
+		"/D/Workplace/homework/7_27/1/lxy_140727/work4/Assets/Resources/Shoot.cs",
+		"/D/Workplace/homework/7_27/1/lxy_140727/work4/Assets/Resources/Sphere.cs",
+		"/D/Workplace/homework/7_27/1/ljj_140727/Ani/Assets/Script/CharController.cs",
+		"/D/Workplace/homework/7_27/1/ljj_140727/Ani/Assets/Script/cameraFollow.cs",
+		"/D/Workplace/homework/7_27/1/cdj_140727/cdj_140725_01/Assets/Standard Assets/Character Controllers/Sources/Scripts/MyPersonControl.cs",
+		"/D/Workplace/homework/7_27/1/cdj_140727/cdj_140725_01/Assets/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs",
+		"/D/Workplace/homework/7_27/1/cdj_140727/cdj_140725_01/Assets/CollisionScript.cs",
+		"/D/Workplace/homework/7_27/1/cdj_140727/cdj_140725_01/Assets/Scripts/Script_06_14.cs",
+		"/D/Workplace/homework/7_27/1/cdc_140727/Assets/Script/TargetController.cs",
+		"/D/Workplace/homework/7_27/1/cdc_140727/Assets/Script/RoleController.cs",
+		"/D/GitHub/unity-lib/Assets/TestAvatar/TestAvatar.cs",
+		"/D/GitHub/unity-lib/Assets/TestFuck.cs",
+		"/D/GitHub/unity-lib/Assets/TestFbx/AniEvent.cs",
+		"/D/GitHub/unity-lib/Assets/TestFbx/TestFbx.cs",
+		"/D/GitHub/unity-lib/Assets/TestInput.cs",
+		"/D/GitHub/unity-lib/SB.sublime-project",
+		"/D/GitHub/unity-lib/Assets/TestCS.cs",
+		"/D/GitHub/unity-lib/Assets/TestCSSSS.cs",
+		"/D/GitHub/unity-lib/Assets/TestCSSSS",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/GitHub/unity-lib/Assets/test.c",
+		"/C/Users/Administrator/Desktop/x",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/SbTest/TestU.sublime-project",
+		"/D/SbTest/Asserts/Test.cs",
+		"/D/Workplace/wxl-unity/Assets/Scripts/FbCheckOnGround.cs",
+		"/D/Work/Unity 总结/API.txt",
+		"/D/Work/Unity 总结/Unity工具类接口.txt",
+		"/D/Work/Unity 总结/总结/XML.txt",
+		"/D/Work/Unity 总结/总结/UnitEditor.txt",
+		"/D/Work/Unity 总结/总结/Note.txt",
+		"/D/Work/Unity 总结/Plugins制作相关.txt",
+		"/D/Work/Unity 总结/总结/TestFile.cs",
+		"/D/Work/Unity 总结/总结/Trigger 包围盒触发器.txt",
+		"/D/Work/Unity 总结/总结/性能影响.txt",
+		"/D/Work/Unity 总结/总结/响应系统Log.txt",
+		"/D/Work/Unity 总结/总结/事件监听.txt",
+		"/D/Work/Unity 总结/总结/让物体运动的方法.txt",
+		"/D/Work/Unity 总结/总结/碰撞检测.txt",
+		"/D/Work/Unity 总结/总结/脚本生命周期.txt",
+		"/D/Work/Unity 总结/总结/几何数据.txt",
+		"/D/Work/Unity 总结/特别的用法.txt",
+		"/D/Work/Unity 总结/总结/API.txt",
+		"/D/Work/Unity 总结/工具类接口.txt",
+		"/C/Users/Administrator/Desktop/成长问题.txt",
+		"/C/Users/Administrator/Desktop/问题.txt",
+		"/D/Work/Unity 总结/总结/Rigidboyd-isKinematic.txt",
+		"/D/Work/Unity 总结/总结/Rigidbody.txt",
+		"/D/Work/Unity 总结/总结/Ray 射线.txt",
+		"/D/Work/Unity 总结/总结/Jason.txt",
+		"/D/Work/Unity 总结/总结/Invoke InvokeRepeating.txt",
+		"/D/Work/Unity 总结/总结/DLL.txt",
+		"/D/Work/C#总结/常用类.txt",
+		"/D/Work/C#总结/工具类.txt",
+		"/D/Work/C#总结/delegate.txt",
+		"/D/Work/C#总结/用法.txt",
+		"/D/暗黑技术分享(1)/暗黑技术分享/All.txt"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"comment",
+			"toggle_comment",
+			"if(Input.GetKey(KeyCode.Q) && Input.GetKeyDown(KeyCode.U))\n		{\n			Debug.Log(\"Q && U\");\n		}",
+			"TextField"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Administrator/Desktop/新建文本文档.txt",
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								536,
+								366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"settings":
+					{
+						"buffer_size": 1329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Administrator/AppData/Local/Unity/Editor/Editor.log",
+					"settings":
+					{
+						"buffer_size": 441698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Administrator/AppData/Local/Unity/Editor/Editor-prev.log",
+					"settings":
+					{
+						"buffer_size": 136533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 104870.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Program Files (x86)/Unity4.5/Editor/Temp/infile",
+					"settings":
+					{
+						"buffer_size": 3,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Administrator/AppData/Local/Temp/HZ$D.509.2920/HZ$D.509.2921/Assets/Scripts/com/engine/buff/BuffManager.cs",
+					"settings":
+					{
+						"buffer_size": 6306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1740.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true
+}

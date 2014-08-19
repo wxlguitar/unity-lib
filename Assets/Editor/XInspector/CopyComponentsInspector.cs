@@ -16,7 +16,7 @@ public class CopyComponentsInspector : Editor
 
         GUILayout.BeginHorizontal();
         EditorGUILayout.LabelField("目标GO", GUILayout.MaxWidth(50));
-        goTarget = EditorGUILayout.ObjectField(goTarget, typeof(GameObject));
+        goTarget = EditorGUILayout.ObjectField(goTarget, typeof(GameObject), true);
         GUILayout.EndHorizontal();
 
         EditorGUILayout.Separator();
